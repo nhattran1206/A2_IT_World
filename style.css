@@ -68,7 +68,12 @@ nav img{
     font-size: 20px
   }
 }
-.team-profile, .it-work{
+.team-profile{
+  width: 80%;
+  color: #4169E1;
+  margin: 0 auto;
+}
+.it-work{
   width: 80%;
   color: #4169E1;
   margin: 0 auto;
