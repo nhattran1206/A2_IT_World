@@ -52,7 +52,7 @@ nav img{
   color: rgb(100,149,237);
   position: absolute;
   top: 50%;
-  left: 70%
+  left: 50%
   transform: translate(-50%,-50%);
   text-align: center;
 }
@@ -62,4 +62,9 @@ nav img{
 .text-box p{
   margin: 10px 0 40px;
   font-size: 14px
+}
+@media(max-width: 700px){
+  .text-box h1{
+    font-size: 20px
+  }
 }
