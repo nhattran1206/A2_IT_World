@@ -68,3 +68,9 @@ nav img{
     font-size: 20px
   }
 }
+.team-profile{
+  width: 80%;
+  color: #4169E1;
+  position: absolute;
+  text-align: justify;
+}
