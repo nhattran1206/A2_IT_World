@@ -50,11 +50,11 @@ nav img{
   width: 100%;
 }
 .text-box{
-  width: 100%;
+  width: 90%;
   color: rgb(100,149,237);
   position: absolute;
   top: 50%;
-  left: 50%
+  left: 50%;
   -ms-transform: translate(-50%,-50%);
   text-align: center;
 }
@@ -76,7 +76,7 @@ nav img{
   margin: 0 auto;
 }
 footer{
-  width: 100%
+  width: 100%;
   position: absolute;
   bottom: 0;
   background: linear-gradient(to right, rgba(196, 143, 9, 0.8),rgba(241, 240, 237, 0.8));
