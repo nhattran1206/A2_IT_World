@@ -17,6 +17,7 @@ nav{
   padding: 2% 6%;
   justify-content: space-between;
   align-items: center;
+  background: linear-gradient(to right, rgba(196, 143, 9, 0.8),rgba(241, 240, 237, 0.8));
 }
 nav img{
   width: 150px;
@@ -81,13 +82,12 @@ footer{
   background: linear-gradient(to right, rgba(196, 143, 9, 0.8),rgba(241, 240, 237, 0.8));
   color: rgb(100,149,237);
   padding: 100px 0 30px;
-  border-top-left-radius: 125px;
   font-size: 13px;
   line-height: 20px;
 }
 .row{
   width: 85%
-  margin: auto;
+  margin:auto;
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
