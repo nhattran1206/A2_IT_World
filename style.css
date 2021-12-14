@@ -75,6 +75,9 @@ nav img{
   color: #4169E1;
   margin: 0 auto;
 }
+.it-work h1{
+  text-align: center;
+}
 footer{
   width: 100%;
   bottom: 0;
