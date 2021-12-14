@@ -94,7 +94,7 @@ footer{
   justify-content: space-between;
 }
 .col{
-  flex-basis: 25%
+  flex-basis: 25%;
   padding: 10px;
 }
 .col:nth-child(2), .col:nth-child(3){
