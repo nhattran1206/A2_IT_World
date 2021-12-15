@@ -172,6 +172,7 @@ hr{
 }
 .team-profile p img{
   width: 150px;
+  clip-path: circle();
   float: left;
   shape-outside: circle(50%);
 }
