@@ -75,6 +75,14 @@ nav img{
   color: #4169E1;
   margin: 0 auto;
 }
+.personal-information p img{
+  width: 150px;
+  clip-path: circle();
+  float: left;
+  shape-outside: circle(50%);
+  margin-right: 8px;
+  margin-bottom: 5px;
+}
 footer{
   width: 100%;
   bottom: 0;
@@ -169,12 +177,4 @@ hr{
 }
 .copyright{
   text-align: center;
-}
-.personal-information p img{
-  width: 150px;
-  clip-path: circle();
-  float: left;
-  shape-outside: circle(50%);
-  margin-right: 8px;
-  margin-bottom: 5px;
 }
