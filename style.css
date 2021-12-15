@@ -70,7 +70,7 @@ nav img{
     font-size: 20px
   }
 }
-.team-profile, .it-work, .feedback{
+.team-profile, .it-work, .feedback, .it-tech{
   width: 40%;
   color: #0040ff;
   margin: 0 auto;
@@ -80,6 +80,13 @@ nav img{
   clip-path: circle();
   float: left;
   shape-outside: circle(50%);
+  margin-right: 8px;
+  margin-bottom: 5px;
+}
+.it-tech p img{
+  width: 250px;
+  height: 150px;
+  float: left;
   margin-right: 8px;
   margin-bottom: 5px;
 }
