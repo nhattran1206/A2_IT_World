@@ -51,7 +51,7 @@ nav img{
 }
 .text-box{
   width: 90%;
-  color: rgb(100,149,237);
+  color: #0040ff;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -72,7 +72,7 @@ nav img{
 }
 .team-profile, .it-work{
   width: 40%;
-  color: #4169E1;
+  color: #0040ff;
   margin: 0 auto;
 }
 .personal-information p img{
