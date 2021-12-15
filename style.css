@@ -170,3 +170,8 @@ hr{
 .copyright{
   text-align: center;
 }
+.team-profile p img{
+  width: 150px;
+  float: left;
+  shape-outside: circle(50%);
+}
