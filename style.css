@@ -175,4 +175,6 @@ hr{
   clip-path: circle();
   float: left;
   shape-outside: circle(50%);
+  margin-right: 8px;
+  margin-bottom: 5px;
 }
