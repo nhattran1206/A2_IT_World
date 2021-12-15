@@ -87,7 +87,7 @@ footer{
   width: 100%;
   bottom: 0;
   background: linear-gradient(to right,rgba(230, 224, 48, 0.69),rgba(241, 240, 237, 0.8));
-  color: rgb(100,149,237);
+  color: #0040ff;
   padding: 100px 0 30px;
   font-size: 13px;
   line-height: 20px;
@@ -127,7 +127,7 @@ ul li{
 }
 ul li a{
   text-decoration: none;
-  color:rgb(100,149,237);
+  color:#0040ff;
 }
 form{
   padding-bottom: 15px;
