@@ -170,7 +170,7 @@ hr{
 .copyright{
   text-align: center;
 }
-.team-profile p img{
+.personal-information p img{
   width: 150px;
   clip-path: circle();
   float: left;
