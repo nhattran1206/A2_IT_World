@@ -109,7 +109,7 @@ nav img{
 }
 .content-table th,
 .content-table td{
-  padding-left: 12px 15px;
+  padding: 12px 15px;
 }
 .content-table tbody tr{
   border-bottom: 1px solid #dddddd;
