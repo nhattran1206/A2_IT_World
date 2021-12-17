@@ -72,8 +72,16 @@ nav img{
 }
 .team-profile, .it-work, .feedback, .it-tech{
   width: 40%;
-  color: #0040ff;
   margin: 0 auto;
+}
+.team-profile h1, h2, h3, h4{
+  color: #0040ff;
+}
+.it-work h1, h2, h3, h4, h5, h6{
+  color: #0040ff;
+}
+.it-tech h1, h2, h3, h4, h5, h6{
+  color: #0040ff;
 }
 .personal-information p img{
   width: 150px;
