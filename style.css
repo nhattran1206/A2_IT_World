@@ -70,7 +70,7 @@ nav img{
     font-size: 20px
   }
 }
-.team-profile, .it-work, .feedback, .it-tech{
+.team-profile, .it-work, .feedback, .it-tech, .project-ideas{
   width: 40%;
   margin: 0 auto;
 }
@@ -81,6 +81,9 @@ nav img{
   color: #0040ff;
 }
 .it-tech h1, h2, h3, h4, h5, h6{
+  color: #0040ff;
+}
+.project-ideas h1, h2, h3, h4, h5, h6{
   color: #0040ff;
 }
 .personal-information p img{
@@ -100,6 +103,19 @@ nav img{
 }
 .profile img{
   width: 700px;
+}
+.project-ideas img{
+  width: 650px;
+}
+.project-ideas p img{
+  width: 500px;
+  height: 400px;
+  float: right;
+  margin-right: 8px;
+  margin-bottom: 5px;
+}
+.title{
+  text-align: center;
 }
 .content-table{
   border-collapse: collapse;
