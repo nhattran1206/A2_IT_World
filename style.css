@@ -131,6 +131,9 @@ nav img{
   text-align: left;
   font-weight: bold;
 }
+.content-table tr th{
+  color: #0040ff;
+}
 .content-table th,
 .content-table td{
   padding: 12px 15px;
